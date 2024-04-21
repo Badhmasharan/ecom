@@ -1,0 +1,1250 @@
+{
+  "all": [
+    {
+      "id": 1,
+      "type":"all",
+      "name": "Wheels For Furniture",
+      "image": "https://m.media-amazon.com/images/I/416MTgo6K9L._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 290,
+      "description": "Universal 360 Wheels For Furniture Moving Heavy Duty Caster Wheels Set For Table Furniture Mini Swivel Casters Wheels"
+    },
+    {
+      "id": 2,
+      "type":"all",
+      "name": "Swing Chair",
+      "image": "https://m.media-amazon.com/images/I/51mBkGbPShL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 405,
+      "description": "Indiid Homes Rattan Furniture Hammock Single Seater Swing Chair With Stand&Cushion Hanging Ssswing"
+    },
+    {
+      "id": 3,
+      "type":"all",
+      "name": "Wooden Nesting Table",
+      "image": "https://m.media-amazon.com/images/I/71U1ZapXmcL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 490,
+      "description": "TANWAR HANDICRAFT Sheesham Wood Nesting Table Set of 3 Pieces Stool for Living Room | Stool Set of 3 Pieces"
+    },
+    {
+      "id": 4,
+      "type":"all",
+      "name": "Bathroom Brush",
+      "image": "https://m.media-amazon.com/images/I/61x87lPmViL._AC_UL960_FMwebp_QL65_.jpg",
+      "price": 200,
+      "description": "Figment Bathroom Brush with Long Handle Tile Cleaner"
+    },
+    {
+      "id": 5,
+      "type":"all",
+      "name": "Foldable Chair",
+      "image": "https://m.media-amazon.com/images/I/41GpoYiwe3L._AC_SR400,600_AGcontrast_.jpg",
+      "price": 290,
+      "description": "FOVERA Foldable Meditation Chair, Floor Chair for Living Room & Outdoor, Meditation Block, SS Frame & Washable Cover"
+    },
+    {
+      "id": 6,
+      "type":"all",
+      "name": "Samsung Washing Machine",
+      "image": "https://m.media-amazon.com/images/I/61Ct6+KF4AL._AC_UL480_QL65_.jpg",
+      "price": 405,
+      "description": "Samsung 7 kg, 5 star, Eco Bubble Technology, Digital Inverter, Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine"
+    },
+    {
+      "id": 7,
+      "type":"all",
+      "name": "Pillow Cover",
+      "image": "https://m.media-amazon.com/images/I/51Ms9dLUSfL._AC_SR400,600_AGcontrast_.jpg",
+      "price": 490,
+      "description": "Huesland by Ahmedabad Cotton Pillow Cover Set (2 Pcs) - 18 x 27 inches"
+    },
+    {
+      "id": 8,
+      "type":"all",
+      "name": "Hose Nozzle",
+      "image": "https://m.media-amazon.com/images/I/41yLhg0LTvL._AC_SR400,600_AGcontrast_.jpg",
+      "price": 200,
+      "description": "Garbnoire 8 in 1 Heavy Duty Hose Nozzle Water Spray High Pressure for multi Functional Cleaning"
+    },
+    {
+      "id": 9,
+      "type":"all",
+      "name": "Wooden Bed",
+      "image": "https://m.media-amazon.com/images/I/71gpsgDkwhL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 290,
+      "description": "Take Interio- Double Bed, 3 Year Warranty, Engineered Wood, Modern Living, Engineered Wood Bed - Sleek Design & Durability"
+    },
+    {
+      "id": 10,
+      "type":"all",
+      "name": "Duffel Bag",
+      "image": "https://m.media-amazon.com/images/I/21kn5G2Ab-L._AC_SR400,600_AGcontrast_.jpg",
+      "price": 405,
+      "description": "SHALIMAR Large Capacity Travel Bag/Storage Bag/Move-in Bags/Duffel Bag - Strong, Durable, Foldable and Water Resistant"
+    },
+    {
+      "id": 11,
+      "type":"all",
+      "name": "Laundry Basket",
+      "image": "https://m.media-amazon.com/images/I/512Fnu5DUIL._AC_SR400,600_AGcontrast_.jpg",
+      "price": 490,
+      "description": "Cello Creta Laundry Bag/Basket with lid, Dark Brown, 50 Ltrs.,Plastic"
+    },
+    {
+      "id": 12,
+      "type":"all",
+      "name": "Microfiber  Mat",
+      "image": "https://m.media-amazon.com/images/I/51J44+wgw7L._AC_SR400,600_AGcontrast_.jpg",
+      "price": 200,
+      "description": "Roseate Premium (40x60 cm) Solid 2000 GSM Microfiber Bath Mat Super Absorbent/Anti-Skid Door Mats"
+    }
+  ],
+  "newReleases": [
+    {
+      "id": 13,
+      "type":"newReleases",
+      "name": "IPhone 15 charging cable",
+      "image": "https://m.media-amazon.com/images/I/41tfqTRZdXL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 290,
+      "description": "Apple iPhone 15 charging cable"
+    },
+    {
+      "id": 14,
+      "type":"newReleases",
+      "name": "SAMSUNG Galaxy S23 Ultra",
+      "image": "https://m.media-amazon.com/images/I/71HtN4qqLZL._AC_UL960_FMwebp_QL65_.jpg",
+      "price": 290,
+      "description": "SAMSUNG Galaxy S23 Ultra Cell Phone, Unlocked Android Smartphone, 256GB, 200MP Camera, S Pen, Night Mode, Green"
+    },
+    {
+      "id": 15,
+      "type":"newReleases",
+      "name": "Storage Organizer",
+      "image": "https://m.media-amazon.com/images/I/51dka33POcL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 200,
+      "description": "EKRON 6 Section Engineered Wood Storage Organizer Furniture for Commercial or Home Use – Safe Kids Friendly Cabinet Toy Shelf"
+    },
+    {
+      "id": 16,
+      "type":"newReleases",
+      "name": "SmartWatch Strap",
+      "image": "https://m.media-amazon.com/images/I/41olFlvbK3L._AC._SR360,460.jpg",
+      "price": 490,
+      "description": "INEFABLE 22mm SmartWatch Strap With Stainless Steel Buckle Compatible With ColorFit Pro 4/Pro 4 Max/Ultra/Ultra 2"
+    },
+    {
+      "id": 17,
+      "type":"newReleases",
+      "name": "Pearl Studded Necklace",
+      "image": "https://m.media-amazon.com/images/I/516tW2fLJzL._AC_SY164_.jpg",
+      "price": 290,
+      "description": "YouBella Jewellery Sets for Women Pearl Studded Choker Necklace Jewellery set with Earrings For Girls/Women"
+    },
+    {
+      "id": 18,
+      "type":"newReleases",
+      "name": "PUMA Sneaker",
+      "image": "https://m.media-amazon.com/images/I/61Y3czYgB+L._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 200,
+      "description": "PUMA Men's Club 5v5 Sneaker | Size UK32"
+    },
+    {
+      "id": 19,
+      "type":"newReleases",
+      "name": "SAMSUNG Galaxy Z Flip 5",
+      "image": "https://m.media-amazon.com/images/I/61IqkfGCw5L._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 200,
+      "description": "SAMSUNG Galaxy Z Flip 5 Cell Phone, Unlocked Android Smartphone, 256GB, 12MP Camera, Large Cover Screen, Lavender"
+    },
+    {
+      "id": 20,
+      "type":"newReleases",
+      "name": "IPhone 15 Pro Max",
+      "image": "https://m.media-amazon.com/images/I/81dT7CUY6GL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 200,
+      "description": "Apple iPhone 15 Pro Max (256 GB) - Natural Titanium"
+    }
+  ],
+    "mobile":[
+        
+  {
+    "id": 21,
+    "type": "mobile",
+    "name": "SAMSUNG Galaxy S23 Ultra",
+    "image": "https://m.media-amazon.com/images/I/71HtN4qqLZL._AC_UL960_FMwebp_QL65_.jpg",
+    "price": 290,
+    "description": "SAMSUNG Galaxy S23 Ultra Cell Phone, Unlocked Android Smartphone, 256GB, 200MP Camera, S Pen, Night Mode, Green"
+  },
+  {
+    "id": 22,
+    "type": "mobile",
+    "name": "OnePlus Nord N200",
+    "image": "https://m.media-amazon.com/images/I/71DCZOdq92S._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 405,
+    "description": "OnePlus Nord N200 | Large 5000mAh Battery | 64GB Storage | 6.49\" Full HD+LCD Screen | 90Hz Display | Fast Charging | Blue Quantum"
+  },
+  {
+    "id": 23,
+    "type": "mobile",
+    "name": "Motorola Moto G Stylus",
+    "image": "https://m.media-amazon.com/images/I/61bBVbson4L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 490,
+    "description": "Motorola Moto G Stylus | 2023 | Unlocked | Made for US 4/64GB | 50 MP Camera | Midnight Blue, 162.89 x 74.08 x 9.19mm"
+  },
+  {
+    "id": 24,
+    "type": "mobile",
+    "name": "SAMSUNG Galaxy Z Flip 5",
+    "image": "https://m.media-amazon.com/images/I/61IqkfGCw5L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 200,
+    "description": "SAMSUNG Galaxy Z Flip 5 Cell Phone, Unlocked Android Smartphone, 256GB, 12MP Camera, Large Cover Screen, Lavender"
+  },
+  {
+    "id": 25,
+    "type": "mobile",
+    "name": "Apple iPhone 13",
+    "image": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 290,
+    "description": "Apple iPhone 13 (128GB) - Starlight"
+  },
+  {
+    "id": 26,
+    "type": "mobile",
+    "name": "Redmi A2",
+    "image": "https://m.media-amazon.com/images/I/810-BAwpF9L._AC_UL480_QL65_.jpg",
+    "price": 405,
+    "description": "Redmi A2 (Classic Black, 2GB RAM, 64GB Storage)"
+  },
+  {
+    "id": 27,
+    "type": "mobile",
+    "name": "realme narzo N53",
+    "image": "https://m.media-amazon.com/images/I/71dEY4Neo3L._AC_UL480_QL65_.jpg",
+    "price": 490,
+    "description": "realme narzo N53 (Feather Gold, 8GB+128GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display"
+  },
+  {
+    "id": 28,
+    "type": "mobile",
+    "name": "Apple iPhone 15 Pro Max",
+    "image": "https://m.media-amazon.com/images/I/81dT7CUY6GL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 200,
+    "description": "Apple iPhone 15 Pro Max (256 GB) - Natural Titanium"
+  },
+  {
+    "id": 29,
+    "type": "mobile",
+    "name": "Apple iPhone 15 charging cable",
+    "image": "https://m.media-amazon.com/images/I/41tfqTRZdXL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 290,
+    "description": "Apple iPhone 15 charging cable"
+  },
+  {
+    "id": 30,
+    "type": "mobile",
+    "name": "Samsung Galaxy M04",
+    "image": "https://m.media-amazon.com/images/I/81xJ80yRRzL._AC_UL480_QL65_.jpg",
+    "price": 405,
+    "description": "Samsung Galaxy M04 Dark Blue, 4GB RAM, 64GB Storage | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery"
+  },
+  {
+    "id": 31,
+    "type": "mobile",
+    "name": "OnePlus Nord CE 3 Lite",
+    "image": "https://m.media-amazon.com/images/I/61QRgOgBx0L._AC_UL480_QL65_.jpg",
+    "price": 490,
+    "description": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)"
+  },
+  {
+    "id": 32,
+    "type": "mobile",
+    "name": "Samsung Galaxy M14 5G",
+    "image": "https://m.media-amazon.com/images/I/81ZSn2rk9WL._AC_UL480_QL65_.jpg",
+    "price": 200,
+    "description": "Samsung Galaxy M14 5G (ICY Silver,6GB,128GB)|50MP Triple Cam|Segment's Only 6000 mAh 5G SP"
+  }
+
+
+    ],
+    "electronics":
+        [
+            
+  {
+    "id": 21,
+    "type": "mobile",
+    "name": "SAMSUNG Galaxy S23 Ultra",
+    "image": "https://m.media-amazon.com/images/I/71HtN4qqLZL._AC_UL960_FMwebp_QL65_.jpg",
+    "price": 290,
+    "description": "SAMSUNG Galaxy S23 Ultra Cell Phone, Unlocked Android Smartphone, 256GB, 200MP Camera, S Pen, Night Mode, Green"
+  },
+  {
+    "id": 22,
+    "type": "mobile",
+    "name": "OnePlus Nord N200",
+    "image": "https://m.media-amazon.com/images/I/71DCZOdq92S._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 405,
+    "description": "OnePlus Nord N200 | Large 5000mAh Battery | 64GB Storage | 6.49\" Full HD+LCD Screen | 90Hz Display | Fast Charging | Blue Quantum"
+  },
+  {
+    "id": 23,
+    "type": "mobile",
+    "name": "Motorola Moto G Stylus",
+    "image": "https://m.media-amazon.com/images/I/61bBVbson4L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 490,
+    "description": "Motorola Moto G Stylus | 2023 | Unlocked | Made for US 4/64GB | 50 MP Camera | Midnight Blue, 162.89 x 74.08 x 9.19mm"
+  },
+  {
+    "id": 24,
+    "type": "mobile",
+    "name": "SAMSUNG Galaxy Z Flip 5",
+    "image": "https://m.media-amazon.com/images/I/61IqkfGCw5L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 200,
+    "description": "SAMSUNG Galaxy Z Flip 5 Cell Phone, Unlocked Android Smartphone, 256GB, 12MP Camera, Large Cover Screen, Lavender"
+  },
+  {
+    "id": 25,
+    "type": "mobile",
+    "name": "Apple iPhone 13",
+    "image": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 290,
+    "description": "Apple iPhone 13 (128GB) - Starlight"
+  },
+  {
+    "id": 26,
+    "type": "mobile",
+    "name": "Redmi A2",
+    "image": "https://m.media-amazon.com/images/I/810-BAwpF9L._AC_UL480_QL65_.jpg",
+    "price": 405,
+    "description": "Redmi A2 (Classic Black, 2GB RAM, 64GB Storage)"
+  },
+  {
+    "id": 27,
+    "type": "mobile",
+    "name": "realme narzo N53",
+    "image": "https://m.media-amazon.com/images/I/71dEY4Neo3L._AC_UL480_QL65_.jpg",
+    "price": 490,
+    "description": "realme narzo N53 (Feather Gold, 8GB+128GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display"
+  },
+  {
+    "id": 28,
+    "type": "mobile",
+    "name": "Apple iPhone 15 Pro Max",
+    "image": "https://m.media-amazon.com/images/I/81dT7CUY6GL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 200,
+    "description": "Apple iPhone 15 Pro Max (256 GB) - Natural Titanium"
+  },
+  {
+    "id": 29,
+    "type": "mobile",
+    "name": "Apple iPhone 15 charging cable",
+    "image": "https://m.media-amazon.com/images/I/41tfqTRZdXL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 290,
+    "description": "Apple iPhone 15 charging cable"
+  },
+  {
+    "id": 30,
+    "type": "mobile",
+    "name": "Samsung Galaxy M04",
+    "image": "https://m.media-amazon.com/images/I/81xJ80yRRzL._AC_UL480_QL65_.jpg",
+    "price": 405,
+    "description": "Samsung Galaxy M04 Dark Blue, 4GB RAM, 64GB Storage | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery"
+  },
+  {
+    "id": 31,
+    "type": "mobile",
+    "name": "OnePlus Nord CE 3 Lite 5G",
+    "image": "https://m.media-amazon.com/images/I/61QRgOgBx0L._AC_UL480_QL65_.jpg",
+    "price": 490,
+    "description": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 8GB RAM, 128GB Storage)"
+  },
+  {
+    "id": 32,
+    "type": "mobile",
+    "name": "Samsung Galaxy M14 5G",
+    "image": "https://m.media-amazon.com/images/I/81ZSn2rk9WL._AC_UL480_QL65_.jpg",
+    "price": 200,
+    "description": "Samsung Galaxy M14 5G (ICY Silver,6GB,128GB)|50MP Triple Cam|Segment's Only 6000 mAh 5G SP"
+  },
+
+           {
+    "id": 45,
+    "type": "electronics",
+    "name": "boAt Xtend Talk Smart Watch",
+    "image": "https://m.media-amazon.com/images/I/6184xh8OgTL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 290,
+    "description": "boAt Xtend Talk Smart Watch with Advanced Dedicated Bluetooth Calling Chip, Built-in Alexa, 1.69\" HD Display,(Pitch Black)"
+  },
+  {
+    "id": 46,
+    "type": "electronics",
+    "name": "boAt Wave Call 2 Smart Watch",
+    "image": "https://m.media-amazon.com/images/I/61FZ83ArEwL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 405,
+    "description": "boAt Wave Call 2 Smart Watch with 1.83\" HD Display, Advanced BT Calling, DIY Watch Face Studio,(Active Black)"
+  },
+  {
+    "id": 47,
+    "type": "electronics",
+    "name": "Samsung Galaxy Watch4 Classic LTE",
+    "image": "https://m.media-amazon.com/images/I/61ftRB6KycL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 490,
+    "description": "Samsung Galaxy Watch4 Classic LTE (4.6cm, Black)"
+  },
+  {
+    "id": 48,
+    "type": "electronics",
+    "name": "Apple Watch SE (2nd Gen) [GPS 44 mm]",
+    "image": "https://m.media-amazon.com/images/I/71lG7br7k1L._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 200,
+    "description": "Apple Watch SE (2nd Gen) [GPS 44 mm] Smart Watch w/Midnight Aluminium Case & Midnight Sport Band, Water Resistant"
+  },
+  {
+    "id": 49,
+    "type": "electronics",
+    "name": "Samsung Galaxy Watch4 Bluetooth",
+    "image": "https://m.media-amazon.com/images/I/61O5Xjb9uEL._AC_UL480_FMwebp_QL65_.jpg",
+    "price": 290,
+    "description": "Samsung Galaxy Watch4 Bluetooth(44mm, Black, Compatible with Android only)"
+  },
+  {
+    "id": 50,
+    "type": "electronics",
+    "name": "Fire-Boltt Jewel Luxury Stainless Steel Smart Watch",
+    "image": "https://m.media-amazon.com/images/I/614vKmfABzL._AC._SR360,460.jpg",
+    "price": 405,
+    "description": "Fire-Boltt Jewel, Luxury Stainless Steel Smart Watch with a 1.85\" Display 320x386 Resolution and 600 NITS Brightness"
+  },
+  {
+    "id": 51,
+    "type": "electronics",
+    "name": "INEFABLE 22mm SmartWatch Strap",
+    "image": "https://m.media-amazon.com/images/I/41olFlvbK3L._AC._SR360,460.jpg",
+    "price": 490,
+    "description": "INEFABLE 22mm SmartWatch Strap With Stainless Steel Buckle  "
+  },
+  {
+    "id": 52,
+    "type": "electronics",
+    "name": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel Smartwatch",
+    "image": "https://m.media-amazon.com/images/I/71D7jU3tUUL._AC._SR360,460.jpg",
+    "price": 200,
+    "description": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel, Bluetooth Calling Smartwatch, AI Voice Assistant"
+  },
+  {
+    "id": 53,
+    "type": "electronics",
+    "name": "Apple Watch Series 8 Series 7 41mm Tempered Glass Screen Protector",
+    "image": "https://m.media-amazon.com/images/I/41DhDpi1epL._SY500__AC_UF420%2C420_FMjpg_.jpg",
+    "price": 290,
+    "description": "Apple Watch Series 8 Series 7 41mm Tempered Glass Screen Protector, All Round Full Protective Hard PC Cover Bumper "
+  },
+  {
+    "id": 54,
+    "type": "electronics",
+    "name": "Noise Newly Launched Quad Call Smart Watch",
+    "image": "https://m.media-amazon.com/images/I/61QMPHGyc2L._AC_UL480_QL65_.jpg",
+    "price": 405,
+    "description": "Noise Newly Launched Quad Call 1.81\" Display, Bluetooth Calling Smart Watch, AI Voice Assistance, in-Built Games"
+  },
+  {
+    "id": 55,
+    "type": "electronics",
+    "name": "Fire-Boltt Asteroid Super AMOLED Display Smart Watch",
+    "image": "https://m.media-amazon.com/images/I/71AxLdT5lJL._AC._SR360,460.jpg",
+    "price": 490,
+    "description": "Fire-Boltt Asteroid 1.43” Super AMOLED Display Smart Watch, in-Built Voice Assistance"
+  },
+  {
+    "id": 56,
+    "type": "electronics",
+    "name": "Fire-Boltt Newly Launched Quest Smartwatch",
+    "image": "https://m.media-amazon.com/images/I/61LwYHqXfTL._AC._SR360,460.jpg",
+    "price": 200,
+    "description": "Fire-Boltt Newly Launched Quest Smartwatch 1.39\" Full Touch GPS Tracking, Health Suite & Rugged Outdoor Built"
+  },
+  {
+    "id": 57,
+    "type": "electronics",
+    "name": "ASUS ROG Strix XF120 Whisper-Quiet Fan",
+    "price": 200,
+    "description": "ASUS ROG Strix XF120 Whisper-Quiet, 4-pin PWM Fan for PC Cases, Radiators or CPU Cooling (120mm, 5 Years Warranty)",
+    "image": "https://m.media-amazon.com/images/I/41+s6sqYQ3S._AC_SR400,600_AGcontrast_.jpg"
+  },
+  {
+    "id": 58,
+    "type": "electronics",
+    "name": "ASUS ROG Strix G16 Gaming Laptop",
+    "price": 200,
+    "description": "ASUS ROG Strix G16 (2023) Gaming Laptop, 16” 16:10 FHD 165Hz, GeForce RTX 4060, Intel Core i7, Eclipse Gray",
+    "image": "https://m.media-amazon.com/images/I/71jTFnk7XiL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 59,
+    "type": "electronics",
+    "name": "ASUS ROG Rapture GT-AX6000 Gaming Router",
+    "price": 200,
+    "description": "ASUS ROG Rapture GT-AX6000 Dual-Band WiFi 6 Extendable Gaming Router, Dual 2.5G Ports, Triple-level Acceleration",
+    "image": "https://m.media-amazon.com/images/I/613UK2R-kQL._AC_SX569_.jpg"
+  },
+  {
+    "id": 60,
+    "type": "electronics",
+    "name": "SAMSUNG 34\" Odyssey G5 Ultra-Wide Gaming Monitor",
+    "price": 200,
+    "description": "SAMSUNG 34\" Odyssey G5 Ultra-Wide Gaming Monitor, 1000R Curved Screen, 165Hz, 1ms, Black",
+    "image": "https://m.media-amazon.com/images/I/61XDeaOrrKL._AC_UL480_QL65_.jpg"
+  },
+  {
+    "id": 61,
+    "type": "electronics",
+    "name": "HP 24mh FHD Computer Monitor",
+    "price": 200,
+    "description": "HP 24mh FHD Computer Monitor with 23.8-Inch IPS Display (1080p)",
+    "image": "https://m.media-amazon.com/images/I/91fAU6mxFsL._AC_UL480_QL65_.jpg"
+  },
+  {
+    "id": 62,
+    "type": "electronics",
+    "name": "SAMSUNG 27\" T35F Series FHD 1080p Computer Monitor",
+    "price": 200,
+    "description": "SAMSUNG 27\" T35F Series FHD 1080p Computer Monitor, 75Hz, IPS Panel, HDMI, VGA (D-Sub)",
+    "image": "https://m.media-amazon.com/images/I/61B8Lq5NXmL._AC_UL480_QL65_.jpg"
+  },
+  {
+    "id": 63,
+    "type": "electronics",
+    "name": "AMD Ryzen 5 5600X Desktop Processor",
+    "price": 200,
+    "description": "AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler",
+    "image": "https://m.media-amazon.com/images/I/61twhaihHtL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 64,
+    "type": "electronics",
+    "name": "Dell S2722QC 27-inch 4K USB-C Monitor",
+    "price": 200,
+    "description": "Dell S2722QC 27-inch 4K USB-C Monitor - UHD (3840 x 2160) Display, 60Hz, Built-in Dual 3W Speakers",
+    "image": "https://m.media-amazon.com/images/I/71WnTimV+OL._AC_UL480_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 65,
+    "type": "electronics",
+    "name": "ViprTech Prime Gaming PC Computer Desktop",
+    "price": 290,
+    "description": "ViprTech Prime Gaming PC Computer Desktop - Intel Core i5 3rd Gen, GeForce GTX 750 4GB, 16GB RAM, White",
+    "image": "https://m.media-amazon.com/images/I/61JHnTxTJiL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 66,
+    "type": "electronics",
+    "name": "MSI Aegis R Gaming Desktop",
+    "price": 405,
+    "description": "MSI Aegis R (Tower) Gaming Desktop, Intel Core i5-12400F, GeForce RTX 4060,Black",
+    "image": "https://m.media-amazon.com/images/I/61wsH0j5SvL._AC_UY327_QL65_.jpg"
+  },
+  {
+    "id": 67,
+    "type": "electronics",
+    "name": "Intel Core i7 Gaming Computer",
+    "price": 490,
+    "description": "Intel Core i7 Gaming Computer, Core i7 2600 8-Threads, 3.8 GHz, 16GB RAM, NVIDIA Geforce GT 1030 2GB GDDR5",
+    "image": "https://m.media-amazon.com/images/I/41eKOUzTMjL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 68,
+    "type": "electronics",
+    "name": "Skytech Gaming Chronos Mini Gaming PC Desktop",
+    "price": 200,
+    "description": "Skytech Gaming Chronos Mini Gaming PC Desktop – Intel Core i3, Black",
+    "image": "https://m.media-amazon.com/images/I/91jHNGBFflL._AC_UY327_FMwebp_QL65_.jpg"
+  }
+          
+          
+    ],
+    "gift":[
+      {
+        "id": 69,
+        "type": "gift",
+        "name": "YouBella Jewellery Sets for Women",
+        "image": "https://m.media-amazon.com/images/I/516tW2fLJzL._AC_SY164_.jpg",
+        "price": 290,
+        "description": "YouBella Jewellery Sets for Women Pearl Studded Choker Necklace Jewellery set with Earrings For Girls/Women"
+      },
+      {
+        "id": 70,
+        "type": "gift",
+        "name": "TOOBA Women's Handicraft Clutch Bag",
+        "image": "https://m.media-amazon.com/images/I/61cVvydO3qL._AC_SY164_.jpg",
+        "price": 405,
+        "description": "TOOBA Women's Handicraft Beautiful Bling Box Clutch Bag"
+      },
+      {
+        "id": 71,
+        "type": "gift",
+        "name": "Urban Forest Womens Wallet Combo",
+        "image": "https://m.media-amazon.com/images/I/31o7ti+AFeL._AC_SY164_.jpg",
+        "price": 490,
+        "description": "Urban Forest Tammy Womens Leather Wallet Combo"
+      },
+      {
+        "id": 72,
+        "type": "gift",
+        "name": "FUKREY® Metal Taj Mahal ",
+        "image": "https://m.media-amazon.com/images/I/519KV5doGJL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "FUKREY® Metal Taj Mahal India Souvenir Shot Glass with Gift Box, Fine Indian Handicrafts (Set of 1 (Bronze Color))"
+      },
+      {
+        "id": 73,
+        "type": "gift",
+        "name": "Office Petals Giftings",
+        "image": "https://m.media-amazon.com/images/I/61msNeNFpHL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "Office Petals Giftings Christmas Corporate Gift Items | Vacuum Flask Gift Set "
+      },
+      {
+        "id": 74,
+        "type": "gift",
+        "name": "KNV Face Sculpture Showpiece Designer Figures",
+        "image": "https://m.media-amazon.com/images/I/81q+R2qgRmL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "KNV Man Face Sculpture Showpiece Designer Figures for Home Decorative Display Gift Item"
+      },
+      {
+        "id": 75,
+        "type": "gift",
+        "name": "Decorative Brass Crystal Oil Lamp",
+        "image": "https://m.media-amazon.com/images/I/61K+U8DJY+L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "Collectible India Akhand Diya Diyas Decorative Brass Crystal Oil Lamp, Oval Shape Home Decor Puja Lamp Tea Light Holder"
+      },
+      {
+        "id": 76,
+        "type": "gift",
+        "name": "Xtore African Tribal Women Art Piece",
+        "image": "https://m.media-amazon.com/images/I/81jZy7pSR7L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "Xtore Beautiful Finish Uniquely Hand Crafted Home Dcor African Tribal Women Art Piece - (Set of 3, Multicolour), Resin"
+      },
+      {
+        "id": 77,
+        "type": "gift",
+        "name": "Cello Tropical Lagoon Dinner Set",
+        "image": "https://m.media-amazon.com/images/I/61xuWKedmVL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "Cello Opalware Dazzle Series Tropical Lagoon Dinner Set, 18 Units | Light-Weight, Daily Use Crockery Set for Dining"
+      },
+      {
+        "id": 78,
+        "type": "gift",
+        "name": "eCraftIndia Resting Buddha Showpiece",
+        "image": "https://m.media-amazon.com/images/I/71-jWWAURCL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "eCraftIndia Resting Buddha on Knee Metal Showpiece (7.5 cm x 5.38 cm x 9.38 cm, Brown, AGB506)"
+      },
+      {
+        "id": 79,
+        "type": "gift",
+        "name": "SKYTONE Coffee Mugs",
+        "image": "https://m.media-amazon.com/images/I/71On6kpPU2L._AC_UL960_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "SKYTONE Coffee Mugs, Anniversary Gift For Couple Special, Ceramic Coffee Tea Mug With Lid & Spoon With Gift Box"
+      },
+      {
+        "id": 80,
+        "type": "gift",
+        "name": "3D Moon Lamp ",
+        "image": "https://m.media-amazon.com/images/I/71KL57J0MvS._AC_UL480_QL65_.jpg",
+        "price": 200,
+        "description": "3D Moon Lamp 7 Colour 15 cm Changeable Sensor Moon Night Lamp for Bedroom, Moonlight Lamp with Stand & USB"
+      }
+    ],
+    "watch":[
+      {
+        "id": 45,
+        "type": "electronics",
+        "name": "boAt Xtend Talk Smart Watch",
+        "image": "https://m.media-amazon.com/images/I/6184xh8OgTL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "boAt Xtend Talk Smart Watch with Advanced Dedicated Bluetooth Calling Chip, Built-in Alexa, 1.69\" HD Display,(Pitch Black)"
+      },
+      {
+        "id": 46,
+        "type": "electronics",
+        "name": "boAt Wave Call 2 Smart Watch",
+        "image": "https://m.media-amazon.com/images/I/61FZ83ArEwL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "boAt Wave Call 2 Smart Watch with 1.83\" HD Display, Advanced BT Calling, DIY Watch Face Studio,(Active Black)"
+      },
+      {
+        "id": 47,
+        "type": "electronics",
+        "name": "Samsung Galaxy Watch4 Classic LTE",
+        "image": "https://m.media-amazon.com/images/I/61ftRB6KycL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "Samsung Galaxy Watch4 Classic LTE (4.6cm, Black)"
+      },
+      {
+        "id": 48,
+        "type": "electronics",
+        "name": "Apple Watch SE (2nd Gen) [GPS 44 mm]",
+        "image": "https://m.media-amazon.com/images/I/71lG7br7k1L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "Apple Watch SE (2nd Gen) [GPS 44 mm] Smart Watch w/Midnight Aluminium Case & Midnight Sport Band, Water Resistant"
+      },
+      {
+        "id": 49,
+        "type": "electronics",
+        "name": "Samsung Galaxy Watch4 Bluetooth",
+        "image": "https://m.media-amazon.com/images/I/61O5Xjb9uEL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "Samsung Galaxy Watch4 Bluetooth(44mm, Black, Compatible with Android only)"
+      },
+      {
+        "id": 50,
+        "type": "electronics",
+        "name": "Fire-Boltt Jewel Luxury Stainless Steel Smart Watch",
+        "image": "https://m.media-amazon.com/images/I/614vKmfABzL._AC._SR360,460.jpg",
+        "price": 405,
+        "description": "Fire-Boltt Jewel, Luxury Stainless Steel Smart Watch with a 1.85\" Display 320x386 Resolution and 600 NITS Brightness"
+      },
+      {
+        "id": 51,
+        "type": "electronics",
+        "name": "INEFABLE 22mm SmartWatch Strap",
+        "image": "https://m.media-amazon.com/images/I/41olFlvbK3L._AC._SR360,460.jpg",
+        "price": 490,
+        "description": "INEFABLE 22mm SmartWatch Strap With Stainless Steel Buckle  "
+      },
+      {
+        "id": 52,
+        "type": "electronics",
+        "name": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel Smartwatch",
+        "image": "https://m.media-amazon.com/images/I/71D7jU3tUUL._AC._SR360,460.jpg",
+        "price": 200,
+        "description": "Fire-Boltt Phoenix Ultra Luxury Stainless Steel, Bluetooth Calling Smartwatch, AI Voice Assistant"
+      },
+      {
+        "id": 53,
+        "type": "electronics",
+        "name": "Apple Watch Series 8 Series 7 41mm Tempered Glass Screen Protector",
+        "image": "https://m.media-amazon.com/images/I/41DhDpi1epL._SY500__AC_UF420%2C420_FMjpg_.jpg",
+        "price": 290,
+        "description": "Apple Watch Series 8 Series 7 41mm Tempered Glass Screen Protector, All Round Full Protective Hard PC Cover Bumper "
+      },
+      {
+        "id": 54,
+        "type": "electronics",
+        "name": "Noise Newly Launched Quad Call Smart Watch",
+        "image": "https://m.media-amazon.com/images/I/61QMPHGyc2L._AC_UL480_QL65_.jpg",
+        "price": 405,
+        "description": "Noise Newly Launched Quad Call 1.81\" Display, Bluetooth Calling Smart Watch, AI Voice Assistance, in-Built Games"
+      },
+      {
+        "id": 55,
+        "type": "electronics",
+        "name": "Fire-Boltt Asteroid Super AMOLED Display Smart Watch",
+        "image": "https://m.media-amazon.com/images/I/71AxLdT5lJL._AC._SR360,460.jpg",
+        "price": 490,
+        "description": "Fire-Boltt Asteroid 1.43” Super AMOLED Display Smart Watch, in-Built Voice Assistance"
+      },
+      {
+        "id": 56,
+        "type": "electronics",
+        "name": "Fire-Boltt Newly Launched Quest Smartwatch",
+        "image": "https://m.media-amazon.com/images/I/61LwYHqXfTL._AC._SR360,460.jpg",
+        "price": 200,
+        "description": "Fire-Boltt Newly Launched Quest Smartwatch 1.39\" Full Touch GPS Tracking, Health Suite & Rugged Outdoor Built"
+      }
+    ],
+    "kitchen":[
+      {
+        "id": 93,
+        "type": "kitchen",
+        "name": "ABOUT SPACE TV Stand - DIY TV Unit",
+        "image": "https://m.media-amazon.com/images/I/81BBZhxghXL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "ABOUT SPACE TV Stand - DIY TV Unit for 32 to 50 Inch TV"
+      },
+      {
+        "id": 94,
+        "type": "kitchen",
+        "name": "Streem Furniture Stool/Seat/Ottoman/Bench",
+        "image": "https://m.media-amazon.com/images/I/61ks0aoX5ML._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "Streem Furniture Stool/Seat/Ottoman/Bench in Solid Sheesham Wood Stool with Cushion | Sitting Chair with Handle"
+      },
+      {
+        "id": 95,
+        "type": "kitchen",
+        "name": "ZILVER: Handcrafted Natural Cane Stool",
+        "image": "https://m.media-amazon.com/images/I/817y+wtz63L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "ZILVER: Living with Nature Handmade And Handcrafted Natural Cane Stool | Varnish Brown"
+      },
+      {
+        "id": 96,
+        "type": "kitchen",
+        "name": "EKRONWood Storage Organizer",
+        "image": "https://m.media-amazon.com/images/I/51dka33POcL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "EKRON 6 Section Engineered Wood Storage Organizer Furniture for Commercial or Home Use – Safe Kids Friendly Cabinet Toy Shelf"
+      },
+      {
+        "id": 97,
+        "type": "kitchen",
+        "name": "STAR WORK Standing Corner Wall Shelf ",
+        "image": "https://m.media-amazon.com/images/I/61OPVQNMPDL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "STAR WORK Standing Corner Wall Shelf Rack Floor Wall Shelves | Multipurpose Utility Storage Organiser "
+      },
+      {
+        "id": 98,
+        "type": "kitchen",
+        "name": "NOOSY Brand - XXL Faux Leather Bean Bag Chair",
+        "image": "https://m.media-amazon.com/images/I/51H+MhIR52L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "NOOSY Brand - XXL Faux Leather Bean Bag Chair with Stool & Cushion Without Beans"
+      },
+      {
+        "id": 99,
+        "type": "kitchen",
+        "name": "DECOWORLD|| Premium Side Table",
+        "image": "https://m.media-amazon.com/images/I/51OhBse4l2L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "DECOWORLD|| Premium Side Table | Metal Side Table with Wooden Top | Side Table | Grey Marble Top Finish on Engineered Wood"
+      },
+      {
+        "id": 100,
+        "type": "kitchen",
+        "name": "Waterproof Recliner Chair Cover",
+        "image": "https://m.media-amazon.com/images/I/718mI6iHB3L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "TAOCOCO100% Waterproof Recliner Chair Cover | Non Slip Recliner Covers with Pocket | Washable Reclining Chair Cover"
+      },
+      {
+        "id": 101,
+        "type": "kitchen",
+        "name": "Universal 360 Wheels For Furniture ",
+        "image": "https://m.media-amazon.com/images/I/416MTgo6K9L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "Universal 360 Wheels For Furniture Moving Heavy Duty Caster Wheels Set For Table Furniture Mini Swivel Casters Wheels"
+      },
+      {
+        "id": 102,
+        "type": "kitchen",
+        "name": "Indiid Homes Single Seater Swing Chair",
+        "image": "https://m.media-amazon.com/images/I/51mBkGbPShL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "Indiid Homes Rattan Furniture Hammock Single Seater Swing Chair With Stand&Cushion Hanging Ssswing"
+      },
+      {
+        "id": 103,
+        "type": "kitchen",
+        "name": "TANWAR HANDICRAFT Sheesham Wood Nesting Table",
+        "image": "https://m.media-amazon.com/images/I/71U1ZapXmcL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "TANWAR HANDICRAFT Sheesham Wood Nesting Table Set of 3 Pieces Stool for Living Room | Wooden Stools | Stool Set of 3 Pieces"
+      },
+      {
+        "id": 104,
+        "type": "kitchen",
+        "name": "Figment Bathroom Cleaning Brush",
+        "image": "https://m.media-amazon.com/images/I/61x87lPmViL._AC_UL960_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "Figment Bathroom Cleaning Brush Bathroom Cleaning Accessories | Tiles Cleaning Bathroom Brush with Long Handle"
+      },
+      {
+        "id": 105,
+        "type": "kitchen",
+        "name": "Surf Excel Matic Front Load Liquid Detergent 2 L Refill Pouch",
+        "image": "https://m.media-amazon.com/images/I/51-62ATXgCL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "Surf Excel Matic Front Load Liquid Detergent 2 L Refill Pouch, For Removing Tough Stains- Front Load Washing Machines"
+      },
+      {
+        "id": 106,
+        "type": "kitchen",
+        "name": "UNIBIC Cookies, Assorted Cookies, 75 g (Pack of 10)",
+        "image": "https://m.media-amazon.com/images/I/814iBcUf1aL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "UNIBIC Cookies, Assorted Cookies, 75 g (Pack of 10) | Biscuits Combo Pack | Choco Chip Cookies | Butter Cookies"
+      },
+      {
+        "id": 107,
+        "type": "kitchen",
+        "name": "SHRILALMAHAL Elite Aroma, Whole Cardamom Green Big 8mm Bold Bolt",
+        "image": "https://m.media-amazon.com/images/I/81WFRKD1o3L._AC_UL960_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "SHRILALMAHAL Elite Aroma, Whole Cardamom Green Big 8mm Bold Bolt, 100g"
+      },
+      {
+        "id": 108,
+        "type": "kitchen",
+        "name": "Amazon Brand - Vedaka Fennel Seeds (Saunf)",
+        "image": "https://m.media-amazon.com/images/I/61u9w9MLxVL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "Amazon Brand - Vedaka Fennel Seeds (Saunf), 200g"
+      },
+      {
+        "id": 109,
+        "type": "kitchen",
+        "name": "Zandu Pure Honey, 100% Purity, No Added Sugar",
+        "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "Zandu Pure Honey, 100% Purity, No Added Sugar, 500g"
+      },
+      {
+        "id": 110,
+        "type": "kitchen",
+        "name": "MAGGI 2-Minute Instant Noodles",
+        "image": "https://m.media-amazon.com/images/I/81G0iD2cvDL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "MAGGI 2-Minute Instant Noodles, 840G (12 Pouches X 70G Each), Masala Noodles With Goodness Of Iron,840 Grams"
+      },
+      {
+        "id": 111,
+        "type": "kitchen",
+        "name": "Colgate MaxFresh 300g (150g x 2, Pack of 2) Toothpaste",
+        "image": "https://m.media-amazon.com/images/I/91bI+RCij+L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "Colgate MaxFresh 300g (150g x 2, Pack of 2) Toothpaste, Blue Gel Paste with Menthol (Peppermint Ice, Saver Pack)"
+      },
+      {
+        "id": 112,
+        "type": "kitchen",
+        "name": "Quaker Oats 1kg, Rolled Oats Natural Wholegrain",
+        "image": "https://m.media-amazon.com/images/I/6193-JAJx4L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "Quaker Oats 1kg, Rolled Oats Natural Wholegrain, Nutritious Breakfast Cereals, Dalia Porridge, Easy to Cook"
+      } 
+    ],
+    "fashion":[
+      {
+        "id": 113,
+        "type": "fashion",
+        "name": "Men's Loose-Fit Shorts (Available in Big & Tall), Pack of 2",
+        "image": "https://m.media-amazon.com/images/I/31iT-zECz6L._AC_SR400,600_.jpg",
+        "price": 290,
+        "description": "Men's Performance Tech Loose-Fit Shorts (Available in Big & Tall), Pack of 2"
+      },
+      {
+        "id": 114,
+        "type": "fashion",
+        "name": "Men's Leather Belt",
+        "image": "https://m.media-amazon.com/images/I/31TQwZmgKjL._AC_SR400,600_.jpg",
+        "price": 405,
+        "description": "Men's Dress Belt"
+      },
+      {
+        "id": 115,
+        "type": "fashion",
+        "name": "Men's Regular-Fit Short-Sleeve Pocket Oxford Shirt",
+        "image": "https://m.media-amazon.com/images/I/41PHQKdwuSL._AC_SR400,600_.jpg",
+        "price": 490,
+        "description": "Men's Regular-Fit Short-Sleeve Pocket Oxford Shirt"
+      },
+      {
+        "id": 116,
+        "type": "fashion",
+        "name": "Kappa Womens Hoodie 1PK",
+        "image": "https://m.media-amazon.com/images/I/41HnTd8oxgL._AC_SR400,600_.jpg",
+        "price": 200,
+        "description":"Women's sports hoodie | Size L"
+      },
+      {
+        "id": 117,
+        "type": "fashion",
+        "name": "Girls and Toddlers' Hooded Puffer Jacket",
+        "image": "https://m.media-amazon.com/images/I/41QHw+V8M4L._AC_SR400,600_.jpg",
+        "price": 290,
+        "description": "Girls and Toddlers' Lightweight Water-Resistant Packable Hooded Puffer Jacket "
+      },
+      {
+        "id": 118,
+        "type": "fashion",
+        "name": "Girls and Toddlers' Knit Short-Sleeve Tutu Dress",
+        "image": "https://m.media-amazon.com/images/I/516CTjyP5RS._AC_SR400,600_.jpg",
+        "price": 405,
+        "description": "Girls and Toddlers' Knit Short-Sleeve Tutu Dress"
+      },
+      {
+        "id": 119,
+        "type": "fashion",
+        "name": "Men's Flat-Front Chino Pant (Available in Big & Tall)",
+        "image": "https://m.media-amazon.com/images/I/313ipY3r9ML._AC_SR400,600_.jpg",
+        "price": 490,
+        "description": "Men's Classic-Fit Wrinkle-Resistant Flat-Front Chino Pant (Available in Big & Tall)"
+      },
+      {
+        "id": 120,
+        "type": "fashion",
+        "name": "Women's Short-Sleeve Scoop Neck Swing Dress | Size L",
+        "image": "https://m.media-amazon.com/images/I/41+mJY4RG3L._AC_SR400,600_.jpg",
+        "price": 200,
+        "description": "Women's Short-Sleeve Scoop Neck Swing Dress | Size L"
+      },
+      {
+        "id": 121,
+        "type": "fashion",
+        "name": "Women's Sleeveless Woven Shirt | Size M",
+        "image": "https://m.media-amazon.com/images/I/41922YlEAUL._AC_SR400,600_.jpg",
+        "price": 290,
+        "description": "Women's Sleeveless Woven Shirt | Size M"
+      },
+      {
+        "id": 122,
+        "type": "fashion",
+        "name": "Men's Classic Penny Loafer | Size UK28",
+        "image": "https://m.media-amazon.com/images/I/61CUOYBWjeL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "Men's Classic Penny Loafer | Size UK28"
+      },
+      {
+        "id": 123,
+        "type": "fashion",
+        "name": "The Drop Women's Santorini Straw Boater Hat",
+        "image": "https://m.media-amazon.com/images/I/91hkdbjygYL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "The Drop Women's Santorini Straw Boater Hat"
+      },
+      {
+        "id": 124,
+        "type": "fashion",
+        "name": "PUMA Men's Club 5v5 Sneaker | Size UK32",
+        "image": "https://m.media-amazon.com/images/I/61Y3czYgB+L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "PUMA Men's Club 5v5 Sneaker | Size UK32"
+      }
+    ],
+    "sports":[
+      {
+        "id": 137,
+        "type": "sports",
+        "name": "MERACH Rowing Machine, Magnetic Rower Machine for Home, 16 Levels of Quiet Resistance, Dual Slide Rail with Max 350lb",
+        "image": "https://m.media-amazon.com/images/I/41+3YGKXGnL._AC_UF226,226_FMjpg_.jpg",
+        "price": 29000,
+        "description": "MERACH Rowing Machine, Magnetic Rower Machine for Home, 16 Levels of Quiet Resistance, Dual Slide Rail with Max 350lb"
+      },
+      {
+        "id": 138,
+        "type": "sports",
+        "name": "Keppi Adjustable Dumbbells Set-25lb Dumbbells with Anti-Slip Metal Handle for Exercise",
+        "image": "https://m.media-amazon.com/images/I/41-txB8+T3L._AC_UF226,226_FMjpg_.jpg",
+        "price": 405,
+        "description": "Keppi Adjustable Dumbbells Set-25lb Dumbbells with Anti-Slip Metal Handle for Exercise"
+      },
+      {
+        "id": 139,
+        "type": "sports",
+        "name": "4 Fabric Booty Exercise Bands for Women & Men - Glute, Hip & Thigh Resistance Bands",
+        "image": "https://m.media-amazon.com/images/I/51yLuC6R2nL._AC_UF226,226_FMjpg_.jpg",
+        "price": 490,
+        "description": "4 Fabric Booty Exercise Bands for Women & Men - Glute, Hip & Thigh Resistance Bands"
+      },
+      {
+        "id": 140,
+        "type": "sports",
+        "name": "G4Free Sling Bags Men and Women Shoulder Backpack Small Cross Body Chest Sling Backpack",
+        "image": "https://m.media-amazon.com/images/I/417ynP6-3aL._AC_UF226,226_FMjpg_.jpg",
+        "price": 200,
+        "description": "G4Free Sling Bags Men and Women Shoulder Backpack Small Cross Body Chest Sling Backpack"
+      },
+      {
+        "id": 141,
+        "type": "sports",
+        "name": "Greatever G2 Full Face Snorkel Mask with Latest Dry Top System",
+        "image": "https://m.media-amazon.com/images/I/41z5BoH5zNL._AC_UF226,226_FMjpg_.jpg",
+        "price": 290,
+        "description": "Greatever G2 Full Face Snorkel Mask with Latest Dry Top System"
+      },
+      {
+        "id": 142,
+        "type": "sports",
+        "name": "PRO-SPIN Ping Pong Paddles - Premium Table Tennis Rackets with Carbon Fiber | Elite Series 7-Ply Blade",
+        "image": "https://m.media-amazon.com/images/I/4178vc96OXL._AC_UF226,226_FMjpg_.jpg",
+        "price": 405,
+        "description": "PRO-SPIN Ping Pong Paddles - Premium Table Tennis Rackets with Carbon Fiber | Elite Series 7-Ply Blade"
+      },
+      {
+        "id": 143,
+        "type": "sports",
+        "name": "Liberlupus Boxing Gloves for Men & Women, Boxing Training Gloves, Kickboxing Gloves",
+        "image": "https://m.media-amazon.com/images/I/416-D8OflWL._AC_UF226,226_FMjpg_.jpg",
+        "price": 490,
+        "description": "Liberlupus Boxing Gloves for Men & Women, Boxing Training Gloves, Kickboxing Gloves"
+      },
+      {
+        "id": 144,
+        "type": "sports",
+        "name": "SPORTBIT Ball Pump with 5 Needles - Push & Pull Inflating System - Great for All Exercise Balls",
+        "image": "https://m.media-amazon.com/images/I/41snOmVVBWL._AC_UF226,226_FMjpg_.jpg",
+        "price": 200,
+        "description": "SPORTBIT Ball Pump with 5 Needles - Push & Pull Inflating System - Great for All Exercise Balls "
+      }
+    ],
+    "pantry":[
+      {
+        "id": 105,
+        "type": "kitchen",
+        "name": "Surf Excel Matic Front Load Liquid Detergent 2 L Refill Pouch",
+        "image": "https://m.media-amazon.com/images/I/51-62ATXgCL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "Surf Excel Matic Front Load Liquid Detergent 2 L Refill Pouch, For Removing Tough Stains- Front Load Washing Machines"
+      },
+      {
+        "id": 106,
+        "type": "kitchen",
+        "name": "UNIBIC Cookies, Assorted Cookies, 75 g (Pack of 10)",
+        "image": "https://m.media-amazon.com/images/I/814iBcUf1aL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "UNIBIC Cookies, Assorted Cookies, 75 g (Pack of 10) | Biscuits Combo Pack | Choco Chip Cookies | Butter Cookies"
+      },
+      {
+        "id": 107,
+        "type": "kitchen",
+        "name": "SHRILALMAHAL Elite Aroma, Whole Cardamom Green Big 8mm Bold Bolt",
+        "image": "https://m.media-amazon.com/images/I/81WFRKD1o3L._AC_UL960_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "SHRILALMAHAL Elite Aroma, Whole Cardamom Green Big 8mm Bold Bolt, 100g"
+      },
+      {
+        "id": 108,
+        "type": "kitchen",
+        "name": "Amazon Brand - Vedaka Fennel Seeds (Saunf)",
+        "image": "https://m.media-amazon.com/images/I/61u9w9MLxVL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "Amazon Brand - Vedaka Fennel Seeds (Saunf), 200g"
+      },
+      {
+        "id": 109,
+        "type": "kitchen",
+        "name": "Zandu Pure Honey, 100% Purity, No Added Sugar",
+        "image": "https://m.media-amazon.com/images/I/71d0wtpbxJL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 290,
+        "description": "Zandu Pure Honey, 100% Purity, No Added Sugar, 500g"
+      },
+      {
+        "id": 110,
+        "type": "kitchen",
+        "name": "MAGGI 2-Minute Instant Noodles",
+        "image": "https://m.media-amazon.com/images/I/81G0iD2cvDL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 405,
+        "description": "MAGGI 2-Minute Instant Noodles, 840G (12 Pouches X 70G Each), Masala Noodles With Goodness Of Iron,840 Grams"
+      },
+      {
+        "id": 111,
+        "type": "kitchen",
+        "name": "Colgate MaxFresh 300g (150g x 2, Pack of 2) Toothpaste",
+        "image": "https://m.media-amazon.com/images/I/91bI+RCij+L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 490,
+        "description": "Colgate MaxFresh 300g (150g x 2, Pack of 2) Toothpaste, Blue Gel Paste with Menthol (Peppermint Ice, Saver Pack)"
+      },
+      {
+        "id": 112,
+        "type": "kitchen",
+        "name": "Quaker Oats 1kg, Rolled Oats Natural Wholegrain",
+        "image": "https://m.media-amazon.com/images/I/6193-JAJx4L._AC_UL480_FMwebp_QL65_.jpg",
+        "price": 200,
+        "description": "Quaker Oats 1kg, Rolled Oats Natural Wholegrain, Nutritious Breakfast Cereals, Dalia Porridge, Easy to Cook"
+      } 
+
+    ],
+    "pc":[
+      {
+        "id": 57,
+        "type": "electronics",
+        "name": "ASUS ROG Strix XF120 Whisper-Quiet Fan",
+        "price": 200,
+        "description": "ASUS ROG Strix XF120 Whisper-Quiet, 4-pin PWM Fan for PC Cases, Radiators or CPU Cooling (120mm, 5 Years Warranty)",
+        "image": "https://m.media-amazon.com/images/I/41+s6sqYQ3S._AC_SR400,600_AGcontrast_.jpg"
+      },
+      {
+        "id": 58,
+        "type": "electronics",
+        "name": "ASUS ROG Strix G16 Gaming Laptop",
+        "price": 200,
+        "description": "ASUS ROG Strix G16 (2023) Gaming Laptop, 16” 16:10 FHD 165Hz, GeForce RTX 4060, Intel Core i7, Eclipse Gray",
+        "image": "https://m.media-amazon.com/images/I/71jTFnk7XiL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 59,
+        "type": "electronics",
+        "name": "ASUS ROG Rapture GT-AX6000 Gaming Router",
+        "price": 200,
+        "description": "ASUS ROG Rapture GT-AX6000 Dual-Band WiFi 6 Extendable Gaming Router, Dual 2.5G Ports, Triple-level Acceleration",
+        "image": "https://m.media-amazon.com/images/I/613UK2R-kQL._AC_SX569_.jpg"
+      },
+      {
+        "id": 60,
+        "type": "electronics",
+        "name": "SAMSUNG 34\" Odyssey G5 Ultra-Wide Gaming Monitor",
+        "price": 200,
+        "description": "SAMSUNG 34\" Odyssey G5 Ultra-Wide Gaming Monitor, 1000R Curved Screen, 165Hz, 1ms, Black",
+        "image": "https://m.media-amazon.com/images/I/61XDeaOrrKL._AC_UL480_QL65_.jpg"
+      },
+      {
+        "id": 61,
+        "type": "electronics",
+        "name": "HP 24mh FHD Computer Monitor",
+        "price": 200,
+        "description": "HP 24mh FHD Computer Monitor with 23.8-Inch IPS Display (1080p)",
+        "image": "https://m.media-amazon.com/images/I/91fAU6mxFsL._AC_UL480_QL65_.jpg"
+      },
+      {
+        "id": 62,
+        "type": "electronics",
+        "name": "SAMSUNG 27\" T35F Series FHD 1080p Computer Monitor",
+        "price": 200,
+        "description": "SAMSUNG 27\" T35F Series FHD 1080p Computer Monitor, 75Hz, IPS Panel, HDMI, VGA (D-Sub)",
+        "image": "https://m.media-amazon.com/images/I/61B8Lq5NXmL._AC_UL480_QL65_.jpg"
+      },
+      {
+        "id": 63,
+        "type": "electronics",
+        "name": "AMD Ryzen 5 5600X Desktop Processor",
+        "price": 200,
+        "description": "AMD Ryzen 5 5600X 6-core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler",
+        "image": "https://m.media-amazon.com/images/I/61twhaihHtL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 64,
+        "type": "electronics",
+        "name": "Dell S2722QC 27-inch 4K USB-C Monitor",
+        "price": 200,
+        "description": "Dell S2722QC 27-inch 4K USB-C Monitor - UHD (3840 x 2160) Display, 60Hz, Built-in Dual 3W Speakers",
+        "image": "https://m.media-amazon.com/images/I/71WnTimV+OL._AC_UL480_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 65,
+        "type": "electronics",
+        "name": "ViprTech Prime Gaming PC Computer Desktop",
+        "price": 290,
+        "description": "ViprTech Prime Gaming PC Computer Desktop - Intel Core i5 3rd Gen, GeForce GTX 750 4GB, 16GB RAM, White",
+        "image": "https://m.media-amazon.com/images/I/61JHnTxTJiL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 66,
+        "type": "electronics",
+        "name": "MSI Aegis R Gaming Desktop",
+        "price": 405,
+        "description": "MSI Aegis R (Tower) Gaming Desktop, Intel Core i5-12400F, GeForce RTX 4060,Black",
+        "image": "https://m.media-amazon.com/images/I/61wsH0j5SvL._AC_UY327_QL65_.jpg"
+      },
+      {
+        "id": 67,
+        "type": "electronics",
+        "name": "Intel Core i7 Gaming Computer",
+        "price": 490,
+        "description": "Intel Core i7 Gaming Computer, Core i7 2600 8-Threads, 3.8 GHz, 16GB RAM, NVIDIA Geforce GT 1030 2GB GDDR5",
+        "image": "https://m.media-amazon.com/images/I/41eKOUzTMjL._AC_UY327_FMwebp_QL65_.jpg"
+      },
+      {
+        "id": 68,
+        "type": "electronics",
+        "name": "Skytech Gaming Chronos Mini Gaming PC Desktop",
+        "price": 200,
+        "description": "Skytech Gaming Chronos Mini Gaming PC Desktop – Intel Core i3, Black",
+        "image": "https://m.media-amazon.com/images/I/91jHNGBFflL._AC_UY327_FMwebp_QL65_.jpg"
+      }
+        
+    ]
+}

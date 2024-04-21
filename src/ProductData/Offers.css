@@ -1,0 +1,26 @@
+.slideshow-container {
+    max-width: 100%;
+  
+    
+  }
+  
+  .each-slide {
+    display: flex;
+    height: 600px;
+    
+  }
+  
+
+  .slide-image{
+    width: 100%;
+  }
+  .page-division1{
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+  .small-add{
+    width: 500px;
+    height: 500px;
+
+  }
+ 

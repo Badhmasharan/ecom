@@ -1,0 +1,250 @@
+
+.header4{
+    background-color:#c6c6c6;
+}
+
+
+.advertise{
+    height:600px;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 9px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-size: cover;
+    background-color:#c6c6c6;
+    
+    border: none;
+    border-color:#c6c6c6 ;
+    
+}
+
+
+.body1{
+    background-color:#c6c6c6;
+    padding-bottom: 1px;
+    width: 100%;
+}
+
+.boxx{
+    padding-left: 12px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 12px;
+    padding-top: 0px;
+    background-color: #c6c6c6;
+    width: 100%;
+}
+.box1{
+    height:400px;
+    width: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+}
+.box1:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+}
+.boxX2{
+    height:400px;
+    width: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+}
+
+.boxX2:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+}
+.box3{
+    height:400px;
+    width: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+}
+.box3:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+}
+.box4{
+    height:400px;
+    width: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+}
+.box4:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+}
+.boxes{
+    padding-left: 12px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 12px;
+    padding-top: 15px;
+    background-color:#c6c6c6;
+    width: 100%;
+    padding-bottom:0PX;
+}
+.box5{
+    height:400px;
+    width: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+}
+.box5:hover:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+}
+.box6{
+    height:400px;
+    width: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+}
+.box6:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+}
+.box7{
+    height:400px;
+    width: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+}
+.box7:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+}
+.box8{
+    height:400px;
+    width: 360px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+}
+.box8:hover{
+    transform: scale(1.02);
+    border-radius: 10px;
+}
+
+.text{
+    padding-top: 15px;
+    padding-left: 20px;
+    color: #000000;
+}
+.pc{
+    height: 320px;
+    width: 355px;
+    padding: 20px;
+    padding-top: 10px;
+
+
+}
+.shopnow {
+    cursor: pointer;
+    color: black;
+    position: relative;
+    padding-left: 20px;
+    margin-top: -8px;
+    text-decoration: none; 
+ 
+  }
+  .shopnow:hover{
+    color: red;
+  }
+  
+  /* .shopnow::before {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 20px;
+    width: 0%;
+    height: 2px; 
+    background-color: rgb(255, 0, 0); 
+    transition: width 0.3s ease; 
+    
+    
+  }
+  
+  .shopnow:hover::before {
+    width: 25%;
+    color: red;
+  } */
+  
+ .body2{
+    display: flex;
+    padding: 16px 20px;
+    width: 100%;
+    justify-content: space-between;
+    background-color: #c6c6c6;
+ }
+
+.smartad{
+
+   background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img22/Wireless/devjyoti/GW/Uber/Nov/D103625178_DesktopTallHero_3000x1200._CB574597993_.jpg") ;
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
+   
+}
+.me{
+    
+    justify-content: center;
+    margin-left: 80%;
+    width: 120px;
+    height: 50px;
+    color: whitesmoke;
+    background: none;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+    border-color: whitesmoke;
+}
+.me:hover{
+    border-radius: 32px; 
+    transform: scale(1.2) ;
+}
+.check-home{
+    padding-top: 12px;
+    background-color: #c6c6c6;
+    color:#000000;
+    
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 100%;
+}
+
+.popular{
+    background-color: white;
+    width: 100%;
+   
+}
+
+.ps{
+    padding-left: 20px;
+    padding-top: 10px;
+    color: black;
+}
+.imgs{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 23px;
+    padding-right: 27px;
+    padding-bottom: 30px;
+    cursor: pointer;
+    
+
+}
+.popimg{
+    width: 170px;
+    height: 190px;
+}

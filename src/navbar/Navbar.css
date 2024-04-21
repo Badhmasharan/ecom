@@ -1,0 +1,256 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    display: grid;
+    grid-template-rows: auto auto;
+    background-color: #0d332f;
+    
+}
+.shipping {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+   
+    height: 59px;
+  }
+  
+  .delivery {
+    font-size: 16px;
+    color: #3a5b5b;
+    margin-left: -15px;
+  }
+  
+  .topicbutton {
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    padding: 20px;
+    margin-left: 24dvw;
+    padding-top: 35px;
+    color: rgb(255, 255, 255);
+  }
+  .logiinn{
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding-top: 0px;
+    padding-left: 20px;
+    display: flex;
+  }
+  
+  .icon {
+    font-size: 35px;
+    color: rgb(154, 155, 154);
+    margin-right: 20px;
+  }
+  .user {
+    display: flex;
+    align-items: center;
+    margin-left: 35%;
+    width:100px;
+    margin-top: 0px;
+  }
+  .greeting {
+    overflow: hidden;
+    width: 80px;
+    white-space: nowrap; 
+    animation: typing 3s steps(40, end) forwards; 
+    cursor: default ;
+    
+  }
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  .user p{
+    font-size: 18px;
+    padding-top: 6px;
+    color: #195851;
+
+  }
+  .user button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color:rgb(154, 155, 154);
+    margin-left: 15px; 
+  }
+  .profile-dropdown {
+    position: relative;
+    display: flex;
+  }
+  
+  
+  .profile-icon {
+    cursor: pointer;
+    color: whitesmoke;
+    font-size: 30px;
+    padding-top: 0px;
+    padding-left: 87px;
+    display: flex;
+    position: absolute;
+  }
+  
+  .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 8px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    z-index: 1000; 
+  }
+  
+  .dropdown-menu p {
+    margin: 0;
+  }
+  
+  .dropdown-menu button {
+    margin-top: 8px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #333;
+  }
+  
+  .dropdown-menu button:hover {
+    text-decoration: underline;
+  }
+  
+
+.header2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 7px 20px;
+    background-color: #195851;
+}
+
+.Location {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:#0d332f;
+    font-size: 2rem;
+}
+.searchbar{
+    padding-left:-6rem;
+}
+.searchbar input {
+    padding: 10px;
+    outline: none;
+    background-color: whitesmoke;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 50rem;
+    height:45px; 
+    border: none;
+    color: black;
+    font-size: 17px;
+    
+}
+
+.searchbar button {
+    padding: 10px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+ background-color:  rgb(255, 202, 159);
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 45px;
+    width: 40px;
+    transition: 0.5s;
+    font-weight: 600;
+    color: #0d332f;
+}
+.searchbar button:hover{
+    background-color: rgb(214, 138, 71);
+}
+.sell button{
+    width:7rem;
+    background-color:#195851;
+    border: none;
+    font-size: 1rem;
+    border-radius: 0.3rem;
+    height: 45px;
+    margin-left: -40px;
+    color: whitesmoke;
+}
+.sell button:hover{
+    border: 1px solid rgb(195, 195, 195);
+}
+.cart-icon{
+  font-size: 30px;
+  padding-top: 0px;
+}
+.header3 {
+    display: flex;
+    flex-wrap: wrap; 
+    padding: 4px;
+    background-color: #ececec;
+    
+}
+.orders button{
+    width:7rem;
+    background-color:#195851;
+    border: none;
+    font-size: 1rem;
+    border-radius: 0.3rem;
+    height: 45px;
+    margin-left: -40px;
+    color: whitesmoke;
+}
+.orders button:hover{
+    border: 1px solid rgb(195, 195, 195);
+}
+.cart-text{
+  display: flex;
+}
+.cart button{
+    width:6rem;
+    background-color:#195851;
+    border: none;
+    font-size: 20px;
+    border-radius: 0.3rem;
+    height: 45px;
+    margin-left: -40px;
+    color: whitesmoke;
+    padding-top: 6px;
+    padding-left: 10px;
+}
+.cart-cart{
+  padding-top: 5px;
+  margin-left: -5px;
+}
+.cart button:hover{
+    border: 1px solid rgb(195, 195, 195);
+}
+.header3 button {
+    padding: 8px;
+    margin: 4px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 15px;
+    color: black;
+    height: 35px;
+}
+.header3{
+    height: 44px;
+    align-items: center;
+    padding-top: 0px;
+}
+.header3 button:hover{
+    border: 2px solid black;
+}

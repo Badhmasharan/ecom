@@ -1,0 +1,24 @@
+
+.body4{
+    background-color: rgb(39, 39, 39);
+    display: flex;
+    justify-content:space-evenly;
+    padding-left: 28px;
+    padding-right: 28px;
+    padding-top: 50px;
+    color: white;
+    padding-bottom: 40px;
+
+}
+.h2{
+    padding-bottom: 15px;
+    color: #dfdddd;
+}
+.p{
+    cursor: pointer;
+    color: rgb(201, 201, 201);
+    padding-bottom: 2px;
+}
+.p:hover{
+    text-decoration: underline;
+}

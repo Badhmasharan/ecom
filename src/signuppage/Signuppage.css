@@ -1,0 +1,281 @@
+
+.loginnn1{
+    background-image: url("C:\Users\shara\ecom\src\loginpage\background.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    display:flex;
+    
+    height: 100vh;
+    align-items: center;
+    display: flex;
+   justify-content: center;
+}
+h1{
+    color: rgba(245, 245, 245, 0.686);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: default;
+}
+@keyframes flickerGlow {
+    0% { text-shadow:none; }
+    50% { text-shadow: rgb(175, 174, 174); }
+    80% { text-shadow: 0 0 16px rgb(255, 248, 248); }
+}
+
+.brand1 {
+    cursor: default;
+    animation: flickerGlow 2s infinite ; 
+}
+.content1{
+    width:90%;
+    margin-left: 3%;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    
+}
+.wrapper1{
+   
+    margin-left: -1050px;
+    margin-top: 20px;
+    width: 420px;
+    background: transparent;
+    /* border: 1px solid #163a70; */
+    backdrop-filter: blur(13px);
+    color: rgb(143, 143, 143);
+    border-radius: 12px;
+    padding: 30px 40px;
+    justify-content: center;
+    box-shadow: 0 0 4px #163a70;
+    height: 500px;
+    position: relative;
+    
+
+}
+
+.wrapper1:hover{
+    transform: scale(1);
+}
+
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+    color: whitesmoke;
+    
+}
+.wrapper1 h1:hover{
+    text-shadow:3px solid rgba(255, 255, 255, 0.634);
+
+}
+.wrapper1 h2{
+    font-size: 32px;
+    text-align: center;
+    
+}
+.wrapper1 .input-boxx{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.input-boxx input{
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid gray;
+    border-radius: 40px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    padding: 20px 45px 20px 20px;
+}
+.input-boxx input::placeholder{
+    color: rgb(255, 255, 255);
+}
+.input-boxx input:hover{
+    border:2px solid black;
+}
+.wrapper1 .input-boxx1{
+    position: relative;
+    width: 100%;
+    height: 65px;
+    margin-top: 0px;
+}
+
+.input-boxx1 input{
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid gray;
+    border-radius: 40px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    padding: 20px 45px 20px 20px;
+}
+.input-boxx1 input::placeholder{
+    color: rgb(255, 255, 255);
+}
+.input-boxx1 input:hover{
+    border:2px solid black;
+}
+.input-boxx1 i{
+    position: absolute;
+    right: 20px;
+    top: 30%;
+    transform: translate(-50%);
+    font-size: 20px;
+}
+.wrapper1 .input-boxx2{
+    position: relative;
+    width: 100%;
+    height: 65px;
+    margin-top: 0px;
+}
+
+.input-boxx2 input{
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid gray;
+    border-radius: 40px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    padding: 20px 45px 20px 20px;
+}
+.input-boxx2 input::placeholder{
+    color: rgb(255, 255, 255);
+}
+.input-boxx2 input:hover{
+    border:2px solid black;
+}
+.input-boxx2 i{
+    position: absolute;
+    right: 20px;
+    top: 30%;
+    transform: translate(-50%);
+    font-size: 20px;
+}
+.wrapper1 .input-boxx3{
+    position: relative;
+    width: 100%;
+    height: 65px;
+    margin-top: 15px;
+}
+
+.input-boxx3 input{
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid gray;
+    border-radius: 40px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    padding: 20px 45px 20px 20px;
+}
+.input-boxx3 input::placeholder{
+    color: rgb(255, 255, 255);
+}
+.input-boxx3 input:hover{
+    border:2px solid black;
+}
+.input-boxx3 i{
+    position: absolute;
+    right: 20px;
+    top: 30%;
+    transform: translate(-50%);
+    font-size: 20px;
+}
+
+.wrapper1 .btnn{
+    width: 100%;
+    height: 45px;
+    background:#157368;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    cursor: pointer;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+.wrapper1 .btnn:hover{
+    box-shadow: 0 0 20px rgb(1, 187, 146);
+}
+
+.split1{
+    margin-left: 1000px;
+    margin-top: 100px;
+    width: 800px;
+    background: transparent;
+    font-size: 90px;
+    color: rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 30px 40px;
+    position: relative;
+    padding-left: 30px;
+    top: -50px;
+    left: -900px;
+    text-align: center;
+
+    
+}
+.loginnn1{
+   padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-top: 10px;
+    position: relative;
+}
+.slogan1{
+    font-size: 30px;
+    margin-left: -10px;
+    color:#157368;
+    text-shadow: 0 0 5px rgb(7, 7, 7);
+    cursor: default;
+}
+.slogan1:hover{
+    color: whitesmoke;
+}
+
+.brand1:hover{
+    /* zoom: 109%;
+    transform: scale(1.01); */
+}
+
+
+span {
+    color: #157368;
+    text-shadow: 0 0 10px rgb(0, 0, 0);
+    cursor: default;
+    /* animation: blinkAnimation 1s infinite;  */
+}
+
+
+.brand1{
+    margin-left: -220px;
+}
+@media only screen and (max-width: 768px) {
+    .wrapper {
+      margin-left: auto; /* Center the login box horizontally */
+      margin-right: auto;
+      width: 80%; /* Adjust the width */
+      max-width: 400px; /* Set maximum width */
+    }
+  
+    .split1 {
+      margin-left: auto; /* Center the brand text horizontally */
+      margin-right: auto;
+      width: 20%; /* Adjust the width */
+      max-width: 300px; /* Set maximum width */
+    }
+  }
+  

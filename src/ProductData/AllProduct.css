@@ -1,0 +1,244 @@
+/* AllProduct.css */
+.heading{
+  font-size: 24px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: lighter;
+  padding-left: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color:#ccc;
+}
+.bg-fade-all {
+  position: relative;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0),rgba(0, 0, 0, 0.234), rgb(216, 216, 216)), url("https://m.media-amazon.com/images/I/61CiqVTRBEL._SX3000_.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px; 
+  width: 100%;
+}
+.bg-fade-kitchen {
+  position: relative;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0),rgba(255, 255, 255, 0), rgb(216, 216, 216)), url("https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/ATFGW/MHS_GW_Candle-holders_PC-under._CB560634205_.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px; 
+  width: 100%;
+}
+.bg-fade-fashion {
+  position: relative;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(210, 237, 239, 0), rgb(210, 237, 239),  rgb(210, 237, 239)), url("https://m.media-amazon.com/images/G/31/img23/Fashion/AF/Event/Jupiter23/Phase1/CML/Heros/3._CB575777439_.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 500px; 
+  width: 100%;
+}
+.bg-fade-sports {
+  position: relative;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.175), rgba(221, 221, 221, 0.904), rgb(211, 210, 210)), url("https://images-eu.ssl-images-amazon.com/images/G/31/img24/Sports/February/Coop/PB/PC_1500x3001_1.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 400px; 
+  width: 100%;
+}
+
+.bg-fade-electronics {
+  position: relative;
+  background-image:  url("https://m.media-amazon.com/images/G/31/img24/dell/launch/AW_m16r2_1500X300._CB560358871_.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 304px; 
+  width: 100%;
+}
+
+
+
+.product-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    background-color: rgb(218, 218, 218);
+    justify-content: space-evenly;
+    padding-bottom: 12px;
+    
+  }
+
+.product-container-all {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    background-color: rgb(218, 218, 218);
+    justify-content: space-evenly;
+    padding-bottom: 12px;
+    height: 1250px;
+   
+  }
+.product-container-electronics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    background-color: rgb(218, 218, 218);
+    justify-content: space-evenly;
+    padding-bottom: 12px;
+    height: 100%;
+  }
+.product-container-kitchen {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    background-color:rgb(218, 218, 218);
+    justify-content: space-evenly;
+    padding-bottom: 12px;
+    height: 2220px;
+    
+  }
+
+.product-container-fashion {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    background-color: rgb(210, 237, 239);
+    justify-content: space-evenly;
+    padding-bottom: 12px;
+    height: 1250px;
+    
+  }
+  .banner{
+    width:100%;
+    margin-top: 0px;
+    
+  }
+  .advertise12{
+    width: 100%;
+    height: 600px;
+    
+  }
+  
+  .product-box1 {
+    top: -200px;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.348);
+    transition: box-shadow 0.3s ease;
+    width: 360px; 
+    height: 470px;
+    padding-left: 20px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+    background-color: white;
+    margin-top: 5px;
+    
+  }
+  .product-box-electronics {
+    margin-top: 10px;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.348);
+    transition: box-shadow 0.3s ease;
+    width: 360px; 
+    height: 470px;
+    padding-left: 20px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+    background-color: white;
+    
+  }
+  .product-box {
+    margin-top: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.348);
+    transition: box-shadow 0.3s ease;
+    width: 360px; 
+    height: 470px;
+    padding-left: 20px;
+    transition: border-radius 0.3s, transform 0.3s ease;
+    background-color: white;
+    
+  }
+  
+  .product-box:hover {
+    transform: scale(1.02);
+    border-radius: 10px;
+  }
+  
+  
+  .product-box-electronics:hover {
+    transform: scale(1.02);
+    border-radius: 10px;
+  }
+  
+  .product-box1:hover {
+    transform: scale(1.02);
+    border-radius: 10px;
+
+  }
+  
+  .product-image {
+    width: 355px;
+    height:320px ;
+    padding-left: 10px;
+    padding-top: 10px;
+  }
+  
+  .product-image img {
+    width: 100%;
+    height: 300px;
+    width:300px;
+  }
+  
+  .product-details {
+    padding: 10px;
+  }
+  
+  .product-price {
+    margin: 0;
+    color: #ff6600;
+    font-size: 18px;
+  }
+  
+  .product-description {
+    margin: 10px 0;
+    font-size: 14px;
+    margin-bottom: 6px;
+    height: 43px;
+    margin-right: 20px;
+  }
+  .add{
+    background-color: #138b7d;
+    border: none;
+    width: 80px;
+    height: 35px;
+    color: whitesmoke;
+    margin-left: 10px;
+    margin-top: 0px;
+    border-radius: 8px;
+    transition: transform 0.5s ease;
+   
+  }
+  .bin{
+    background-color: #fd5c27d3;
+    border: none;
+    width: 60px;
+    height: 35px;
+    color: whitesmoke;
+    margin-left: 10px;
+    margin-top: 0px;
+    border-radius: 8px;
+    transition: transform 0.5s ease;
+    font-size: 25px;
+    padding-top: 4px;
+   
+  }
+  .add:hover{
+    background-color:  #11564e;
+    transform: scale(1);
+    cursor: pointer;
+  }
+  
+  .bin:hover{
+    background-color:  #ff5024;
+    transform: scale(1);
+    cursor: pointer;
+  }
+  
+ 
